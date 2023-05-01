@@ -335,7 +335,7 @@ export default [
     {
       caseDown: 'Opt',
       caseUp: null,
-      code: 'OptLeft',
+      code: 'AltLeft',
       keycode: '18',
     },
     {
@@ -359,7 +359,7 @@ export default [
     {
       caseDown: 'Opt',
       caseUp: null,
-      code: 'OptRight',
+      code: 'AltRight',
       keycode: '18',
     },
     {
