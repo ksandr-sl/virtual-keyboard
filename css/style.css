@@ -105,7 +105,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .output {
   width: 100%;
-  height: 300px;
+  height: 320px;
   border: 10px solid #4f4f4f;
   border-radius: 30px;
   padding: 10px;
@@ -203,4 +203,9 @@ h1, h2, h3, h4, h5, h6 {
 
 .active {
   display: block;
+}
+
+.keyboard__key.pressed {
+  color: #199515;
+  background-color: #262a25;
 }/*# sourceMappingURL=style.css.map */
