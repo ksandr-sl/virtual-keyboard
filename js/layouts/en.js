@@ -80,7 +80,7 @@ export default [
     },
     {
       caseDown: 'Backspace',
-      caseUp: null,
+      caseUp: 'Backspace',
       code: 'Backspace',
       keycode: '8',
     }
@@ -88,7 +88,7 @@ export default [
   [
     {
       caseDown: 'Tab',
-      caseUp: null,
+      caseUp: 'Tab',
       code: 'Tab',
       keycode: '9',
     },
@@ -174,7 +174,7 @@ export default [
   [
     {
       caseDown: 'CapsLock',
-      caseUp: null,
+      caseUp: 'CapsLock',
       code: 'CapsLock',
       keycode: '20',
     },
@@ -246,7 +246,7 @@ export default [
     },
     {
       caseDown: 'Enter',
-      caseUp: null,
+      caseUp: 'Enter',
       code: 'Enter',
       keycode: 13,
     }
@@ -254,7 +254,7 @@ export default [
   [
     {
       caseDown: 'Shift',
-      caseUp: null,
+      caseUp: 'Shift',
       code: 'ShiftLeft',
       keycode: '16',
     },
@@ -320,7 +320,7 @@ export default [
     },
     {
       caseDown: 'Shift',
-      caseUp: null,
+      caseUp: 'Shift',
       code: 'ShiftRight',
       keycode: '16',
     }
@@ -328,61 +328,61 @@ export default [
   [
     {
       caseDown: 'Ctrl',
-      caseUp: null,
+      caseUp: 'Ctrl',
       code: 'ControlLeft',
       keycode: '17',
     },
     {
       caseDown: 'Opt',
-      caseUp: null,
+      caseUp: 'Opt',
       code: 'AltLeft',
       keycode: '18',
     },
     {
       caseDown: 'Cmd',
-      caseUp: null,
+      caseUp: 'Cmd',
       code: 'MetaLeft',
       keycode: '91',
     },
     {
       caseDown: ' ',
-      caseUp: null,
+      caseUp: ' ',
       code: 'Space',
       keycode: '32',
     },
     {
       caseDown: 'Cmd',
-      caseUp: null,
+      caseUp: 'Cmd',
       code: 'MetaRight',
       keycode: '93',
     },
     {
       caseDown: 'Opt',
-      caseUp: null,
+      caseUp: 'Opt',
       code: 'AltRight',
       keycode: '18',
     },
     {
       caseDown: '◀',
-      caseUp: null,
+      caseUp: '◀',
       code: 'ArrowLeft',
       keycode: '37',
     },
     {
       caseDown: '▲',
-      caseUp: null,
+      caseUp: '▲',
       code: 'ArrowUp',
       keycode: '38',
     },
     {
       caseDown: '▼',
-      caseUp: null,
+      caseUp: '▼',
       code: 'ArrowDown',
       keycode: '40',
     },
     {
       caseDown: '▶',
-      caseUp: null,
+      caseUp: '▶',
       code: 'ArrowRight',
       keycode: '39',
     }
